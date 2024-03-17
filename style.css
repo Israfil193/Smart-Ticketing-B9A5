@@ -1,0 +1,24 @@
+.raleway {
+  font-family: "Raleway", sans-serif;
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+#seats-details li {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-border {
+  border-bottom: 1px solid #0307124D;
+
+}
+
+.green {
+  background-color: #1DD100;
+  color: #fff;
+}
